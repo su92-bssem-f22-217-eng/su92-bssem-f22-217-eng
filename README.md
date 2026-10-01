@@ -73,7 +73,7 @@ I'm always open to learning, collaboration, open-source projects, and exciting o
 
 ---
 
-💻 **Software Engineer | Full-Stack Developer | Python Developer | DevOps Engineer**
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sawera Sarwar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thvxsaw._) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sawera Sarwar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:su92-bssem-f22-217@superior.edu.pk) 
 
@@ -83,6 +83,7 @@ I'm always open to learning, collaboration, open-source projects, and exciting o
 ![](https://github-readme-stats.shion.dev/api?username=su92-bssem-f22-217-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=su92-bssem-f22-217-eng&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=su92-bssem-f22-217-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
